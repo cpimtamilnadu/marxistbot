@@ -1,2 +1,2 @@
-# marxistbot
-A bot with Marxist perspective.
+# MarxistBot
+A Telegram Messagner bot with Marxist perspective.
